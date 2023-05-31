@@ -65,5 +65,5 @@ inglês, tornando o processo de obtenção de informações mais rápido e efici
 pré-treinados como o Whisper e o LED, o SmartSummy foi capaz de produzir resumos de alta qualidade
 para vídeos em inglês, com resultados satisfatórios em testes realizados com dois vídeos diferentes.
 o o processo de pesquisa e estudo
-mais ágil e eficiente.[SmartSummy.pdf](https://github.com/Keomas/SmartSummy/files/11617325/SmartSummy.pdf)
+mais ágil e eficiente. Artigo sobre o SmartSummy: [SmartSummy.pdf](https://github.com/Keomas/SmartSummy/files/11617325/SmartSummy.pdf)
 
