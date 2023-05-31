@@ -1,4 +1,4 @@
-# SmartSummy
+<h1 align="center"> SmartSummy</h1>
 
 ### Dependencies
 
