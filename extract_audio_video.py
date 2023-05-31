@@ -14,6 +14,5 @@ from moviepy.editor import VideoFileClip
 def extract_audio(path:str):
   video =  VideoFileClip(path.strip())
   audio = video.audio
-  audio=audio.set_duration(600.00)
   audio.duration
   audio.write_audiofile("./audio.mp3")
